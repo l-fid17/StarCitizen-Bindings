@@ -1,5 +1,5 @@
-<ActionMaps version="1" optionsVersion="2" rebindVersion="2" profileName="left_stick">
- <CustomisationUIHeader label="left_stick" description="" image="">
+<ActionMaps version="1" optionsVersion="2" rebindVersion="2" profileName="combo">
+ <CustomisationUIHeader label="combo" description="" image="">
   <devices>
    <keyboard instance="1"/>
    <mouse instance="1"/>
